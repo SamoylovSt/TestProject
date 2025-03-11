@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 import java.util.Scanner;
-public class Main {
+public class Main { // shisjka
 
     public static String randomWord() throws FileNotFoundException {
         File dictionary = new File("newnouns.txt");
