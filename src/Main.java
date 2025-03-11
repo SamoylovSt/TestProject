@@ -9,7 +9,7 @@ public class Main { // shisjkavnbvn
         Scanner scanner = new Scanner(dictionary);
 
         String line = scanner.nextLine();
-
+int inf=1;
         Map<Integer, String> words = new HashMap<>();
         int count = 0;
 
